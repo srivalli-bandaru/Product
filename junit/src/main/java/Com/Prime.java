@@ -21,5 +21,7 @@ public class Prime {
 public static void main(String args[]) {
 	if (prime(3))
 		System.out.println("true");
+	
+	
 }
 }
